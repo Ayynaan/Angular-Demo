@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-footerInfo = [{name:"Github Username:", value:"Ayynaan"},{name:"Personal Email:", value:"To be requested personally"},{name:"Discord:", value:"Humana"},{name:"Brother", value:"Jordan"}];
+footerInfo = [{name:"Github Username:", value:"Ayynaan"},{name:"Personal Email:", value:"To be requested personally"},{name:"Discord:", value:"Humana"},{name:"Test", value:"Proven"}];
 Computer_Skills = ["SQL Database Knowledge","Moderate Python Knowledge","Proficient in HTML/JS/CSS","Knowledge in Office 365","AWS Architecture","Azure Webserver Usage","Utilization of Bootstrap Js"];
 Professional_Experience = [{},{},{},{}];
 Soft_Skills = ["Customer Service Troubleshooting Ability.","Public Speaking Acumen.","Personal Ability to parse language into shorter terms.","Interpersonal Teamwork Proficiency","Personal Affinity to properly communicate with workers, team-members."];
