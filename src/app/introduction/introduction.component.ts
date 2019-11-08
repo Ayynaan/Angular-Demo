@@ -7,5 +7,5 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class IntroductionComponent {
 imagelink : string = "assets/img/20191102_193550.jpg";  
-@Input() namespace: string;
+@Input() namespace;
 }

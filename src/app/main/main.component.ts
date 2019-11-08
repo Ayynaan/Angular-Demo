@@ -6,7 +6,7 @@ import { Component, OnInit, Input } from '@angular/core';
   styleUrls: ['./main.component.css']
 })
 export class MainComponent {
-@Input() skills: string;
-@Input() computer: string;
-@Input() school: string;
+@Input() skills;
+@Input() computer;
+@Input() school;
 }
